@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am working as software engineer at Sendinblue who has expertise in
+I am working as Software Engineer at Sendinblue who has expertise in
 
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
