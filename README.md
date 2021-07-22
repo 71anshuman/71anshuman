@@ -1,5 +1,16 @@
-### Hi there 👋
-I am working as Software Engineer at Sendinblue who has expertise in
+
+<h1 align="center">Hi 👋, I'm Anshuman Lawania</h1>
+
+<h3 align="center">
+  
+  `git commit -m "Hello, I'm a Software Engineer at Sendinblue"`
+
+</h3>
+
+<hr />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=71anshuman&label=Profile%20views&color=0e75b6&style=flat" alt="71anshuman" /> </p>
+
 
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
