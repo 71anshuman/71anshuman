@@ -3,7 +3,7 @@
 
 <h4 align="center">
   
-  `git commit -m "Hello, I'm a Software Engineer at Sendinblue"`
+  `git commit -m "Hello, I'm a Software Engineer at Brevo"`
 
 </h4>
 
